@@ -1,0 +1,23 @@
+.MainHeader {
+    position:fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    background: #050f2c;
+    padding: 20px 16px;
+    margin: 0;
+    text-align: center
+}
+
+.MainHeader > div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.MainHeaderBrand {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+

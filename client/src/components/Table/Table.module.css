@@ -1,0 +1,75 @@
+.Table {
+    width: 60%;
+    border: 2px solid black;
+    margin:auto;
+    margin-top: 1rem;
+    border-radius: 10px;
+    background: #050f2c;
+    color: White;
+}
+
+
+.Header {
+    border: 2px solid black;
+}
+
+tr {
+    text-align: center;
+}
+
+.Parent h1{ 
+    text-align: center;
+}
+
+.Email {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.Input {
+    text-decoration:none;
+    font: inherit;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.Btn {
+  display: inline-block;
+  font: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid grey;
+  padding: 10px;
+  margin-left: 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background:#003666;
+  color: white;
+}
+
+.Btn:hover {
+  background:#050f2c;
+  color: white
+}
+
+.Details {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.DetailDiv{
+    border: 2px solid black;
+    width: 60%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 10px;
+    border-radius: 10px;
+}

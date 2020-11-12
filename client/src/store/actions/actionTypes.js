@@ -1,0 +1,2 @@
+export const SAVE_SLOT_DETAILS = "SAVE_SLOT_DETAILS"
+export const STORING_SLOT_ID = "STORING_SLOT_ID"
